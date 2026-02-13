@@ -1,0 +1,163 @@
+'''This program has all of the class's information and creates a card for each person 
+containing their name, age, grade, whether they have a drivers liscense or not, and their email'''
+#Variables for my info
+cwN = 'Caleb Wall'
+cwA = 16
+cwG = 11
+cwDL = 'No'
+cwE = '278472@burlcoschools.org'
+#Variables Andrew's my info
+arN = 'Andrew Rapetti'
+arA = 16
+arG = 11
+arDL = 'No'
+arE = '278430@burlcoschools.org'
+#Variables for Chris's info
+cdN = 'Chris Davis'
+cdA = 16
+cdG = 11
+cdDL = 'No'
+cdE = '269329@burlcoschools.org'
+#Variables for Martins's info
+maN = 'Martins Jr Agbakwu'
+maA = 16
+maG = 11
+maDL = 'No'
+maE = '278827@burlcoschools.org'
+#Variables for Wes's info
+wsN = 'Wes Spaugh'
+wsA = 16
+wsG = 11
+wsDL = 'No'
+wsE = '279089@burlcoschools.org'
+#Variables for Alex's info
+adN = 'Alex Dowling'
+adA = 16
+adG = 11
+adDL = 'No'
+adE = '279235@burlcoschools.org'
+#Variables for Dylan's info
+dgN = 'Dylan Guzman'
+dgA = 16
+dgG = 11
+dgDL = 'No'
+dgE = '278509@burlcoschools.org'
+#Variables for Tyler's info
+tkN = 'Tyler Keane'
+tkA = 17
+tkG = 11
+tkDL = 'No'
+tkE = '269260@burlcoschools.org'
+#Variables for Abraham's info
+aeN = 'Abraham Esparra'
+aeA = 16
+aeG = 11
+aeDL = 'No'
+aeE = '269360@burlcoschools.org'
+#Variables for Brandon's info
+bcN = 'Brandon Cox'
+bcA = 17
+bcG = 11
+bcDL = 'Yes'
+bcE = '278583@burlcoschools.org'
+
+#Creating the cards using the info
+#My card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", cwN, "                               |")
+print ("|  Age: ", cwA, "                                        |")
+print ("|  Grade: ", cwG, "                                      |")
+print ("|  Driver's Liscense: ", cwDL, "                          |")
+print ("|  Email: ", cwE, "                |")
+print ("|___________________________________________________|")
+
+#Andrew's Card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", arN, "                           |")
+print ("|  Age: ", arA, "                                        |")
+print ("|  Grade: ", arG, "                                      |")
+print ("|  Driver's Liscense: ", arDL, "                          |")
+print ("|  Email: ", arE, "                |")
+print ("|___________________________________________________|")
+
+#Chris's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", cdN, "                              |")
+print ("|  Age: ", cdA, "                                        |")
+print ("|  Grade: ", cdG, "                                      |")
+print ("|  Driver's Liscense: ", cdDL, "                          |")
+print ("|  Email: ", cdE, "                |")
+print ("|___________________________________________________|")
+
+#Martins's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", maN, "                       |")
+print ("|  Age: ", maA, "                                        |")
+print ("|  Grade: ", maG, "                                      |")
+print ("|  Driver's Liscense: ", maDL, "                          |")
+print ("|  Email: ", maE, "                |")
+print ("|___________________________________________________|")
+
+#Wes's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", wsN, "                               |")
+print ("|  Age: ", wsA, "                                        |")
+print ("|  Grade: ", wsG, "                                      |")
+print ("|  Driver's Liscense: ", wsDL, "                          |")
+print ("|  Email: ", wsE, "                |")
+print ("|___________________________________________________|")
+
+#Alex's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", adN, "                             |")
+print ("|  Age: ", adA, "                                        |")
+print ("|  Grade: ", adG, "                                      |")
+print ("|  Driver's Liscense: ", adDL, "                          |")
+print ("|  Email: ", adE, "                |")
+print ("|___________________________________________________|")
+
+#Dylan's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", dgN, "                             |")
+print ("|  Age: ", dgA, "                                        |")
+print ("|  Grade: ", dgG, "                                      |")
+print ("|  Driver's Liscense: ", dgDL, "                          |")
+print ("|  Email: ", dgE, "                |")
+print ("|___________________________________________________|")
+
+#Tyler's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", tkN, "                              |")
+print ("|  Age: ", tkA, "                                        |")
+print ("|  Grade: ", tkG, "                                      |")
+print ("|  Driver's Liscense: ", tkDL, "                          |")
+print ("|  Email: ", tkE, "                |")
+print ("|___________________________________________________|")
+
+#Abraham's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", aeN, "                          |")
+print ("|  Age: ", aeA, "                                        |")
+print ("|  Grade: ", aeG, "                                      |")
+print ("|  Driver's Liscense: ", aeDL, "                          |")
+print ("|  Email: ", aeE, "                |")
+print ("|___________________________________________________|")
+
+#Brandon's card
+print ("_____________________________________________________")
+print ("|                                                   |")
+print ("|  Name: ", bcN, "                              |")
+print ("|  Age: ", bcA, "                                        |")
+print ("|  Grade: ", bcG, "                                      |")
+print ("|  Driver's Liscense: ", bcDL, "                         |")
+print ("|  Email: ", bcE, "                |")
+print ("|___________________________________________________|")
